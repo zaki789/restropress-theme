@@ -1,0 +1,31 @@
+# WordPress
+/wp-config.php
+/.htaccess
+
+# Dependencies
+/node_modules/
+/vendor/
+
+# Logs
+*.log
+/debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup
+*.backup
+*.bak
+*.tmp
+
+# Build files
+/dist/
+/build/
+*.zip
